@@ -1,0 +1,14 @@
+C:\Users\juanc\onedrive\practiceprogramming\dotnetpractice\obj\Debug\net9.0\dotnetpractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juanc\onedrive\practiceprogramming\dotnetpractice\obj\Debug\net9.0\dotnetpractice.AssemblyInfoInputs.cache
+C:\Users\juanc\onedrive\practiceprogramming\dotnetpractice\obj\Debug\net9.0\dotnetpractice.AssemblyInfo.cs
+C:\Users\juanc\onedrive\practiceprogramming\dotnetpractice\obj\Debug\net9.0\dotnetpractice.csproj.CoreCompileInputs.cache
+C:\Users\juanc\onedrive\practiceprogramming\dotnetpractice\bin\Debug\net9.0\dotnetpractice.exe
+C:\Users\juanc\onedrive\practiceprogramming\dotnetpractice\bin\Debug\net9.0\dotnetpractice.deps.json
+C:\Users\juanc\onedrive\practiceprogramming\dotnetpractice\bin\Debug\net9.0\dotnetpractice.runtimeconfig.json
+C:\Users\juanc\onedrive\practiceprogramming\dotnetpractice\bin\Debug\net9.0\dotnetpractice.dll
+C:\Users\juanc\onedrive\practiceprogramming\dotnetpractice\bin\Debug\net9.0\dotnetpractice.pdb
+C:\Users\juanc\onedrive\practiceprogramming\dotnetpractice\obj\Debug\net9.0\dotnetpractice.dll
+C:\Users\juanc\onedrive\practiceprogramming\dotnetpractice\obj\Debug\net9.0\refint\dotnetpractice.dll
+C:\Users\juanc\onedrive\practiceprogramming\dotnetpractice\obj\Debug\net9.0\dotnetpractice.pdb
+C:\Users\juanc\onedrive\practiceprogramming\dotnetpractice\obj\Debug\net9.0\dotnetpractice.genruntimeconfig.cache
+C:\Users\juanc\onedrive\practiceprogramming\dotnetpractice\obj\Debug\net9.0\ref\dotnetpractice.dll
