@@ -12,3 +12,4 @@ C:\Users\juanc\onedrive\practiceprogramming\dotnetpractice\obj\Debug\net9.0\refi
 C:\Users\juanc\onedrive\practiceprogramming\dotnetpractice\obj\Debug\net9.0\dotnetpractice.pdb
 C:\Users\juanc\onedrive\practiceprogramming\dotnetpractice\obj\Debug\net9.0\dotnetpractice.genruntimeconfig.cache
 C:\Users\juanc\onedrive\practiceprogramming\dotnetpractice\obj\Debug\net9.0\ref\dotnetpractice.dll
+C:\Users\juanc\onedrive\practiceprogramming\dotnetpractice\obj\Debug\net9.0\dotnetpractice.sourcelink.json
