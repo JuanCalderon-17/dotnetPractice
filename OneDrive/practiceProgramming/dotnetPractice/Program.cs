@@ -53,12 +53,12 @@ namespace dotnetPractice
             
 
 
-            //ite a program and ask the user to enter a number. Compute the factorial of the number and print it on the console. 
+            //Write a program and ask the user to enter a number. Compute the factorial of the number and print it on the console. 
             // For example, if the user enters 5, the program should calculate 5 x 4 x 3 x 2 x 1 and display it as 5! = 120.
 
 
 
-            -------2 EXERCISE 
+            -------3 EXERCISE 
             int number = 0;
             Console.Write("Enter a number: ");
             bool userInput = int.TryParse(Console.ReadLine(), out number);
@@ -77,9 +77,39 @@ namespace dotnetPractice
             }
             Console.WriteLine($"{number}! = {result}");
         
-        */
-
-        }
         
+
+            //Write a program that picks a random number between 1 and 10. Give the user 4 chances to guess the number.
+            //  If the user guesses the number, display “You won"; otherwise, display “You lost". 
+            // (To make sure the program is behaving correctly, you can display the secret number on the console first.)
+
+
+         -------4 EXERCISE
+            Random random = new Random();
+            var randomNumber = random.Next(1, 10);
+            int number = 0;
+
+
+            for (int i = 0; i < 4; i++)
+            {
+                Console.Write("Guess a number from 1 - 10, you got 4 chances: ");
+                string? input = Console.ReadLine();
+                
+                if (int.TryParse(Console.ReadLine(), out number))
+                {
+                    if (number == randomNumber)
+                    {
+                        Console.WriteLine($"Yo guess correctly, your {number} is equivalent to the random number {randomNumber}!");
+                        break;
+                    }
+                    else
+                    {
+                        Console.WriteLine($"Incorrect. Try again! The number was {randomNumber}");
+                    }
+                }
+            }
+            */
+            
+        }
     }
 }
